@@ -1,4 +1,4 @@
-<a href="https://idkwhereisthisname.github.io"><img src="https://idkwhereisthisname.github.io/assets/homebutton.gif" width="25" height="25"></a> some links i guess
+<a href="https://theblockbreaker.github.io"><img src="https://theblockbreaker.github.io/assets/homebutton.gif" width="25" height="25"></a> some links i guess
 -----
 [roblox profile](https://www.roblox.com/users/3962819055/profile)
 
@@ -10,4 +10,3 @@
 
 [YouTube channel](https://www.youtube.com/channel/UC3IL0b1yqcimDNNGxSRxDkA)
 
-switch friend code: <a onclick="copy(this)"><b>SW-3166-4547-8894</b></a>
