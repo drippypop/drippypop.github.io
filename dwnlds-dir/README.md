@@ -14,3 +14,12 @@ The BRD allows you to download the latest release from a GitHub repository, extr
 
 [(old) preview](https://raw.githubusercontent.com/TheBlockbreaker/Blockbreaker-Release-Downloader/main/hWY1hr7u2liGWM5M.mp4)
 --------------------------
+<h3>Blockbreaker Labs</h3>
+
+[website](https://blockbreakerlabs.vercel.app/)
+
+Info
+
+The Blockbreaker Labs is a Javascript web app that serves as a testing playground for my off topic experiments.
+
+--------------------------
