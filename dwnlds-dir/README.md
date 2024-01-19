@@ -12,7 +12,7 @@ Info
 
 The BRD allows you to download the latest release from a GitHub repository, extract its contents, and store them in a specified target folder.
 
-[(old) preview](https://raw.githubusercontent.com/TheBlockbreaker/Blockbreaker-Release-Downloader/main/hWY1hr7u2liGWM5M.mp4)
+[(old) preview](https://blockbreaker-filehost.glitch.me/file/raw/hWY1hr7u2liGWM5M_1705629008364.mp4)
 --------------------------
 <h3>Blockbreaker Labs</h3>
 
@@ -21,5 +21,17 @@ The BRD allows you to download the latest release from a GitHub repository, extr
 Info
 
 The Blockbreaker Labs is a Javascript web app that serves as a testing playground for my off topic experiments.
+
+--------------------------
+
+<h3>Blockbreaker Filehost</h3>
+
+[website](https://blockbreaker-filehost.glitch.me/)
+
+Info
+
+The Blockbreaker Filehost is a Javascript web app that ... hosts files i guess lmao
+
+[preview](https://blockbreaker-filehost.glitch.me/file/hWY1hr7u2liGWM5M_1705629008364.mp4)
 
 --------------------------
