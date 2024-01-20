@@ -25,6 +25,6 @@
 
 Enjoy your delicious Blockbreaker Cookies!
 
-[Site main page](https://theblockbrewker.github.io)
+[Site main page](https://theblockbreaker.github.io)
 
 [Guide tree](https://theblockbreaker.github.io/guides/)
