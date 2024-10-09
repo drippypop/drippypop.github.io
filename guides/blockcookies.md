@@ -25,6 +25,6 @@
 
 Enjoy your delicious Blockbreaker Cookies!
 
-[Site main page](https://theblockbreaker.github.io)
+[Site main page](https://drippypop.github.io)
 
-[Guide tree](https://theblockbreaker.github.io/guides/)
+[Guide tree](https://drippypop.github.io/guides/)
