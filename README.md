@@ -4,7 +4,7 @@
 hello this is my site i guess
 
 
-<a href="https://tag.rc24.xyz/user/464869789488119808"><img src="https://tag.rc24.xyz/464869789488119808/tag.png" alt="RiiTag" /></a> <a href='http://internetometer.com/give/50316'><img src='http://internetometer.com/imagesmall/50316.png'/></a> <a href='http://internetometer.com/give/50316'><img src='http://internetometer.com/image/50316.png'/></a><img src="https://drippypop.github.io/assets/wiiuspin.gif" width=110 height=110>
+ <a href='http://internetometer.com/give/50316'><img src='http://internetometer.com/imagesmall/50316.png'/></a> <a href='http://internetometer.com/give/50316'><img src='http://internetometer.com/image/50316.png'/></a><img src="https://drippypop.github.io/assets/wiiuspin.gif" width=110 height=110>
 
 [Links](https://drippypop.github.io/links)
 
